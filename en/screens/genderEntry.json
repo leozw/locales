@@ -5,44 +5,124 @@
   "invalid_gender_message": "You must choose a Gender.",
   "next_button": "Next",
   "genders": {
-    "Man": {
-      "label": "Man"
+    "Man": "Man",
+    "CisMan": {
+      "label": "Cis Man",
+      "description": "A man whose gender aligns with the sex they were assigned at birth."
     },
-    "Woman": {
-      "label": "Woman"
+    "TransMan": {
+      "label": "Trans Man",
+      "description": "A man who is transgender and whose gender is different from the sex assigned at birth."
     },
-    "LGBTQIA+": {
-      "label": "LGBTQIA+",
-      "details": [
-        {
-          "label": "Lesbian",
-          "description": "A woman who is emotionally, romantically, or sexually attracted to other women."
-        },
-        {
-          "label": "Gay",
-          "description": "A person who is emotionally, romantically, or sexually attracted to people of the same gender. Often used specifically to refer to men attracted to men."
-        },
-        {
-          "label": "Bisexual",
-          "description": "A person who is emotionally, romantically, or sexually attracted to more than one sex or gender."
-        },
-        {
-          "label": "Transgender",
-          "description": "An umbrella term for people whose gender identity is different from the sex assigned at birth."
-        },
-        {
-          "label": "Queer",
-          "description": "A term used by some people, particularly younger people, whose sexual orientation is not exclusively heterosexual. Often used by those who reject traditional gender identities."
-        },
-        {
-          "label": "Intersex",
-          "description": "A term used to describe a variety of conditions in which a person is born with reproductive or sexual anatomy that doesn’t fit the typical definitions of female or male."
-        },
-        {
-          "label": "Asexual",
-          "description": "A person who experiences little or no sexual attraction to others."
-        }
-      ]
+    "Woman": "Woman",
+    "CisWoman": {
+      "label": "Cis Woman",
+      "description": "A woman whose gender aligns with the sex they were assigned at birth."
+    },
+    "TransWoman": {
+      "label": "Trans Woman",
+      "description": "A woman who is transgender and whose gender is different from the sex assigned at birth."
+    },
+    "LGBTQIA+": "LGBTQIA+",
+    "Lesbian": {
+      "label": "Lesbian",
+      "description": "A woman who is emotionally, romantically, or sexually attracted to other women."
+    },
+    "Gay": {
+      "label": "Gay",
+      "description": "A person who is emotionally, romantically, or sexually attracted to people of the same gender. Often used specifically to refer to men attracted to men."
+    },
+    "Bisexual": {
+      "label": "Bisexual",
+      "description": "A person who is emotionally, romantically, or sexually attracted to more than one sex or gender."
+    },
+    "Transgender": {
+      "label": "Transgender",
+      "description": "An umbrella term for people whose gender identity is different from the sex assigned at birth."
+    },
+    "Queer": {
+      "label": "Queer",
+      "description": "A term used by some people, particularly younger people, whose sexual orientation is not exclusively heterosexual. Often used by those who reject traditional gender identities."
+    },
+    "Intersex": {
+      "label": "Intersex",
+      "description": "A term used to describe a variety of conditions in which a person is born with reproductive or sexual anatomy that doesn’t fit the typical definitions of female or male."
+    },
+    "Asexual": {
+      "label": "Asexual",
+      "description": "A person who experiences little or no sexual attraction to others."
+    },
+    "Agender": {
+      "label": "Agender",
+      "description": "A person who does not identify with any gender."
+    },
+    "Androgyne": {
+      "label": "Androgyne",
+      "description": "A person who identifies with a mix of male and female gender characteristics."
+    },
+    "Bigender": {
+      "label": "Bigender",
+      "description": "A person who identifies with two genders."
+    },
+    "Genderqueer": {
+      "label": "Genderqueer",
+      "description": "A person who does not subscribe exclusively to conventional gender distinctions but identifies with neither, both, or a combination of male and female genders."
+    },
+    "Genderfluid": {
+      "label": "Genderfluid",
+      "description": "A person whose gender identity changes."
+    },
+    "NonBinary": {
+      "label": "Non-binary",
+      "description": "A person who does not identify as male or female, or who may identify as both male and female, or neither, at different times."
+    },
+    "Pangender": {
+      "label": "Pangender",
+      "description": "A person whose identity spans multiple genders."
+    },
+    "TwoSpirit": {
+      "label": "Two-Spirit",
+      "description": "A person who identifies with a Native American third gender or gender-variant ceremonial role."
+    },
+    "Neutrois": {
+      "label": "Neutrois",
+      "description": "A non-binary gender identity that is considered to be a neutral or null gender."
+    },
+    "GenderApathetic": {
+      "label": "Gender Apathetic",
+      "description": "A person who does not strongly identify with any gender or the concept of gender identities."
+    },
+    "Demigirl": {
+      "label": "Demigirl",
+      "description": "A person who partially identifies as a woman, girl, or feminine, but not wholly."
+    },
+    "Demiboy": {
+      "label": "Demiboy",
+      "description": "A person who partially identifies as a man, boy, or masculine, but not wholly."
+    },
+    "Genderflux": {
+      "label": "Genderflux",
+      "description": "A person whose gender intensity fluctuates and can vary in its presence and magnitude."
+    },
+    "Aporagender": {
+      "label": "Aporagender",
+      "description": "A gender identity outside of the traditional gender binary and not defined in relation to male or female."
+    },
+    "Maverique": {
+      "label": "Maverique",
+      "description": "A non-binary gender that exists outside of the orthodox social bounds of gender."
+    },
+    "Polygender": {
+      "label": "Polygender",
+      "description": "A person who identifies as multiple genders simultaneously or at different times."
+    },
+    "Intergender": {
+      "label": "Intergender",
+      "description": "A person whose gender identity is between genders or a combination of genders."
+    },
+    "Graygender": {
+      "label": "Graygender",
+      "description": "A person who identifies with a gender, but not strongly so."
     }
   }
 }
