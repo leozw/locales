@@ -1,0 +1,8 @@
+{
+  "header": "Qual é o seu primeiro nome?",
+  "sub_input": "É assim que aparecerá no seu perfil.",
+  "invalid_name_title": "Nome Inválido",
+  "invalid_name_message": "Seu nome deve ter pelo menos 2 caracteres.",
+  "next_button": "Próximo",
+  "name_placeholder": "Digite seu primeiro nome"
+}
