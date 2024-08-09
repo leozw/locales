@@ -1,4 +1,3 @@
 {
-  "takeALook": "Take a look",
-  "seeIfNearby": "and see if anyone is nearby"
+  "messageHeader": "Take a look {'\n'} and see if anyone is nearby"
 }
