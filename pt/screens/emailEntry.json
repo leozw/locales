@@ -1,0 +1,9 @@
+{
+  "header": "Seu email",
+  "subheader": "Não perca o acesso à sua conta, verifique seu email.",
+  "invalid_email_title": "Email inválido",
+  "invalid_email_message": "Por favor, insira um endereço de email válido.",
+  "update_failed_title": "Falha na atualização",
+  "next_button": "Próximo",
+  "email_placeholder": "Digite seu email"
+}
