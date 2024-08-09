@@ -1,0 +1,11 @@
+"codeEntry": {
+  "header": "Digite seu código",
+  "resend_code": "Reenviar código",
+  "resend_code_success": "O código de verificação foi reenviado com sucesso.",
+  "resend_code_error": "Falha ao reenviar o código de verificação.",
+  "incomplete_code_title": "Código incompleto",
+  "incomplete_code_message": "Por favor, preencha todos os 6 dígitos do código.",
+  "next_button": "Próximo",
+  "token_not_received_title": "Token não recebido",
+  "token_not_received_message": "O token não foi recebido após a verificação."
+}
