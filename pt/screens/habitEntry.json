@@ -1,0 +1,51 @@
+{
+  "header": "Gostaria de nos contar um pouco sobre seu estilo de vida e hábitos?",
+  "subHeader": "Qual destes combina com você?",
+  "next_button": "Próximo",
+  "smoke": {
+    "title": "Com que frequência você fuma?",
+    "options": [
+      "Fumante social",
+      "Fuma quando bebe",
+      "Não fumante",
+      "Fumante",
+      "Tentando parar"
+    ]
+  },
+  "workout": {
+    "title": "Você se exercita?",
+    "options": [
+      "Todos os dias",
+      "Frequentemente",
+      "Às vezes",
+      "Rato de academia",
+      "Ocasionalmente",
+      "Nunca"
+    ]
+  },
+  "pet": {
+    "title": "Você tem algum animal de estimação?",
+    "options": [
+      "Gato",
+      "Cachorro",
+      "Pássaro",
+      "Peixe",
+      "Anfíbio",
+      "Réptil",
+      "Coelho",
+      "Hamster",
+      "Não tenho, mas adoro"
+    ]
+  },
+  "drink": {
+    "title": "Com que frequência você bebe?",
+    "options": [
+      "Eu não bebo",
+      "Socialmente",
+      "Às vezes",
+      "Nos finais de semana",
+      "Em ocasiões especiais",
+      "Eu não bebo, mas estou curioso"
+    ]
+  }
+}
