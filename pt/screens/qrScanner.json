@@ -1,0 +1,8 @@
+{
+  "successTitle": "Sucesso",
+  "successMessage": "Você entrou no evento",
+  "errorTitle": "Erro",
+  "errorMessage": "Falha ao entrar no evento",
+  "noCameraPermission": "Sem permissão para a câmera",
+  "overlayText": "Aponte a câmera para o QR Code para entrar no evento"
+}
