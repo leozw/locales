@@ -1,4 +1,3 @@
 {
-  "takeALook": "Dê uma olhada e veja \n se alguém está por perto",
-  "seeIfNearby": "e veja se alguém está por perto"
+  "messageHeader": "Dê uma olhada e veja {'\n'} se alguém está por perto"
 }
