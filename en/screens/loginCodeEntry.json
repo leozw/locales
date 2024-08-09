@@ -1,0 +1,12 @@
+{
+  "enterCode": "Enter your code",
+  "resendCode": "Resend code",
+  "nextButton": "Next",
+  "storedToken": "Stored Token:",
+  "tokenNotReceivedTitle": "Token not received",
+  "tokenNotReceivedMessage": "The token was not received after verification.",
+  "verificationError": "Verification Error",
+  "incompleteCodeTitle": "Incomplete code",
+  "incompleteCodeMessage": "Please fill in all 6 digits of the code.",
+  "authenticationFailed": "Invalid or expired verification code"
+}
