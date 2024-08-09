@@ -1,0 +1,8 @@
+{
+  "createEvent": "Create Event",
+  "joinEvent": "Join Event",
+  "joinEventMessage": "Choose how you'd like to join the event: via QR Code or Event ID.",
+  "eventID": "Event ID",
+  "cancel": "Cancel",
+  "qrCode": "QR Code"
+}
