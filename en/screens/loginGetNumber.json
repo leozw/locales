@@ -1,0 +1,10 @@
+{
+  "canWeGet": "Can we get",
+  "yourNumber": "your Number?",
+  "phoneNumberPlaceholder": "Enter phone number",
+  "nextButton": "Next",
+  "userNotFoundTitle": "User not found",
+  "userNotFoundMessage": "Do you want to create an account?",
+  "yes": "Yes",
+  "no": "No"
+}
