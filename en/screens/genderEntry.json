@@ -5,37 +5,44 @@
   "invalid_gender_message": "You must choose a Gender.",
   "next_button": "Next",
   "genders": {
-    "Man": "Man",
-    "CisMan": {
-      "label": "Cis Man",
-      "description": "A man whose gender aligns with the sex they were assigned at birth."
+    "Man": {
+      "label": "Man"
     },
-    "TransMan": {
-      "label": "Trans Man",
-      "description": "A man who is transgender and whose gender is different from the sex assigned at birth."
+    "Woman": {
+      "label": "Woman"
     },
-    "Woman": "Woman",
-    "CisWoman": {
-      "label": "Cis Woman",
-      "description": "A woman whose gender aligns with the sex they were assigned at birth."
-    },
-    "TransWoman": {
-      "label": "Trans Woman",
-      "description": "A woman who is transgender and whose gender is different from the sex assigned at birth."
-    },
-    "LGBTQIA+": "LGBTQIA+",
-    "Lesbian": {
-      "label": "Lesbian",
-      "description": "A woman who is emotionally, romantically, or sexually attracted to other women."
-    },
-    "Gay": {
-      "label": "Gay",
-      "description": "A person who is emotionally, romantically, or sexually attracted to people of the same gender. Often used specifically to refer to men attracted to men."
-    },
-    "Bisexual": {
-      "label": "Bisexual",
-      "description": "A person who is emotionally, romantically, or sexually attracted to more than one sex or gender."
-    },
-    // Continue com as demais definições...
+    "LGBTQIA+": {
+      "label": "LGBTQIA+",
+      "details": [
+        {
+          "label": "Lesbian",
+          "description": "A woman who is emotionally, romantically, or sexually attracted to other women."
+        },
+        {
+          "label": "Gay",
+          "description": "A person who is emotionally, romantically, or sexually attracted to people of the same gender. Often used specifically to refer to men attracted to men."
+        },
+        {
+          "label": "Bisexual",
+          "description": "A person who is emotionally, romantically, or sexually attracted to more than one sex or gender."
+        },
+        {
+          "label": "Transgender",
+          "description": "An umbrella term for people whose gender identity is different from the sex assigned at birth."
+        },
+        {
+          "label": "Queer",
+          "description": "A term used by some people, particularly younger people, whose sexual orientation is not exclusively heterosexual. Often used by those who reject traditional gender identities."
+        },
+        {
+          "label": "Intersex",
+          "description": "A term used to describe a variety of conditions in which a person is born with reproductive or sexual anatomy that doesn’t fit the typical definitions of female or male."
+        },
+        {
+          "label": "Asexual",
+          "description": "A person who experiences little or no sexual attraction to others."
+        }
+      ]
+    }
   }
 }
