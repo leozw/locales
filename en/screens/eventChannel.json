@@ -1,0 +1,16 @@
+{
+  "ambassadors": "Ambassadors",
+  "channelsOfEvent": "Channels of Event",
+  "errorMessage": "Error: {{error}}",
+  "noChannelsAvailable": "No channels available for this event.",
+  "leaveChannelMessage": "Are you sure you want to leave the channel? This action cannot be undone.",
+  "leaveChannel": "Leave Channel",
+  "cancel": "Cancel",
+  "welcomeToEvent": "Welcome to the Event!",
+  "youCan": "You can:",
+  "joinChannel": "• Join the channel and chat with everyone!",
+  "inviteAmbassadors": "• Invite ambassadors for a one-on-one chat.",
+  "privateConversation": "• Chat in the channel or pull someone aside for a private conversation.",
+  "haveFun": "Have fun and enjoy the chat! 🎉",
+  "gotIt": "Got it"
+}
