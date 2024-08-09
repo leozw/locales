@@ -1,0 +1,11 @@
+{
+  "yourLocation": "Your Location",
+  "youAreHere": "You are here",
+  "unknownUser": "Unknown User",
+  "errorFetchingUsers": "Error fetching nearby users",
+  "errorFetchingEvents": "Error fetching nearby events",
+  "errorFetchingUserEvents": "Error fetching user events",
+  "errorFetchingEventUsers": "Error fetching event users",
+  "errorJoiningEvent": "Error joining event",
+  "eventsExpectedArray": "Expected 'nearbyEvents' to be an array"
+}
