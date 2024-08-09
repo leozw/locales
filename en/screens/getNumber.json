@@ -1,0 +1,9 @@
+{
+  "get_number": {
+    "header": "Can we get\nyour Number?",
+    "phone_placeholder": "Enter phone number",
+    "next_button": "Next",
+    "auth_failed_title": "Authentication failed",
+    "auth_failed_message": "Please try again."
+  }
+}
