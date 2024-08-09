@@ -1,0 +1,7 @@
+{
+  "nameNotFound": "Name not found",
+  "unknownUser": "Unknown user",
+  "fetchError": "Error fetching conversations",
+  "chats": "Chats",
+  "noConversations": "No conversations yet!"
+}
