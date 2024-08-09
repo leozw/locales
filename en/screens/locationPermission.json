@@ -1,0 +1,12 @@
+{
+  "header": "So let's see who's close?",
+  "subheader": "We want to access your location only to provide a better experience by helping you find new friends nearby.",
+  "permission_request_title": "Location Access Required",
+  "permission_request_message": "This app needs access to your location to find people near you.",
+  "permission_neutral": "Ask Me Later",
+  "permission_negative": "Cancel",
+  "permission_positive": "OK",
+  "permission_denied_title": "Permission Denied",
+  "permission_denied_message": "You need to grant location permission to continue.",
+  "allow_button": "Allow"
+}
