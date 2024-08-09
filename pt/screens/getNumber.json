@@ -1,7 +1,7 @@
 {
-    "header": "Podemos pegar\nseu número?",
-    "phone_placeholder": "Digite o número de telefone",
-    "next_button": "Próximo",
-    "auth_failed_title": "Falha na autenticação",
-    "auth_failed_message": "Por favor, tente novamente."
+  "header": "Podemos pegar\nseu número?",
+  "phone_placeholder": "Digite o número de telefone",
+  "next_button": "Próximo",
+  "auth_failed_title": "Falha na autenticação",
+  "auth_failed_message": "Por favor, tente novamente."
 }
