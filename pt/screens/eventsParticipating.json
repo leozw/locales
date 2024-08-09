@@ -1,0 +1,11 @@
+{
+  "shareMessage": "Junte-se ao meu evento: {{eventName}}. ID do Evento: {{eventId}}",
+  "errorTitle": "Erro",
+  "shareError": "Falha ao compartilhar evento",
+  "leaveError": "Falha ao sair do evento",
+  "errorMessage": "Erro: {{error}}",
+  "emptyStateText": "Você ainda não está participando de nenhum evento. Crie ou entre em um evento para fazer novos amigos e se divertir!",
+  "leaveEventMessage": "Tem certeza de que deseja sair do evento? Esta ação não pode ser desfeita.",
+  "leaveEvent": "Sair do Evento",
+  "cancel": "Cancelar"
+}
