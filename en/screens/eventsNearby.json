@@ -1,0 +1,10 @@
+{
+  "noEventsFound": "No nearby events found.",
+  "errorTitle": "Error",
+  "joinError": "Failed to join the event",
+  "errorMessage": "Error: {{error}}",
+  "distanceUnit": "km",
+  "away": "away",
+  "joinEvent": "Join Event",
+  "emptyStateText": "No nearby events found. Create or join an event to make new friends and have fun!"
+}
