@@ -1,0 +1,8 @@
+{
+  "successTitle": "Success",
+  "successMessage": "You have joined the event",
+  "errorTitle": "Error",
+  "errorMessage": "Failed to join event",
+  "noCameraPermission": "No camera permission",
+  "overlayText": "Point the camera at the QR Code to join the event"
+}
