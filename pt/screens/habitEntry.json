@@ -2,6 +2,9 @@
   "header": "Gostaria de nos contar um pouco sobre seu estilo de vida e hábitos?",
   "subHeader": "Qual destes combina com você?",
   "next_button": "Próximo",
+  "editTitle": "Edite seu estilo de vida e hábitos",
+  "saveButton": "Salvar",
+  "cancelButton": "Cancelar",
   "smoke": {
     "title": "Com que frequência você fuma?",
     "options": [
