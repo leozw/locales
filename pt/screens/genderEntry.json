@@ -5,37 +5,44 @@
   "invalid_gender_message": "Você deve escolher um gênero.",
   "next_button": "Próximo",
   "genders": {
-    "Man": "Homem",
-    "CisMan": {
-      "label": "Homem Cis",
-      "description": "Um homem cujo gênero se alinha com o sexo que lhe foi atribuído ao nascer."
+    "Man": {
+      "label": "Homem"
     },
-    "TransMan": {
-      "label": "Homem Trans",
-      "description": "Um homem que é transgênero e cujo gênero é diferente do sexo atribuído ao nascer."
+    "Woman": {
+      "label": "Mulher"
     },
-    "Woman": "Mulher",
-    "CisWoman": {
-      "label": "Mulher Cis",
-      "description": "Uma mulher cujo gênero se alinha com o sexo que lhe foi atribuído ao nascer."
-    },
-    "TransWoman": {
-      "label": "Mulher Trans",
-      "description": "Uma mulher que é transgênero e cujo gênero é diferente do sexo atribuído ao nascer."
-    },
-    "LGBTQIA+": "LGBTQIA+",
-    "Lesbian": {
-      "label": "Lésbica",
-      "description": "Uma mulher que é emocional, romântica ou sexualmente atraída por outras mulheres."
-    },
-    "Gay": {
-      "label": "Gay",
-      "description": "Uma pessoa que é emocional, romântica ou sexualmente atraída por pessoas do mesmo gênero. Muitas vezes usado especificamente para se referir a homens atraídos por homens."
-    },
-    "Bisexual": {
-      "label": "Bissexual",
-      "description": "Uma pessoa que é emocional, romântica ou sexualmente atraída por mais de um sexo ou gênero."
-    },
-    // Continue com as demais definições...
+    "LGBTQIA+": {
+      "label": "LGBTQIA+",
+      "details": [
+        {
+          "label": "Lésbica",
+          "description": "Uma mulher que é emocional, romântica ou sexualmente atraída por outras mulheres."
+        },
+        {
+          "label": "Gay",
+          "description": "Uma pessoa que é emocional, romântica ou sexualmente atraída por pessoas do mesmo gênero. Muitas vezes usado especificamente para se referir a homens atraídos por homens."
+        },
+        {
+          "label": "Bissexual",
+          "description": "Uma pessoa que é emocional, romântica ou sexualmente atraída por mais de um sexo ou gênero."
+        },
+        {
+          "label": "Transgênero",
+          "description": "Um termo guarda-chuva para pessoas cuja identidade de gênero é diferente do sexo atribuído ao nascimento."
+        },
+        {
+          "label": "Queer",
+          "description": "Um termo usado por algumas pessoas, particularmente jovens, cuja orientação sexual não é exclusivamente heterossexual. Muitas vezes usado por aqueles que rejeitam identidades de gênero tradicionais."
+        },
+        {
+          "label": "Intersexo",
+          "description": "Um termo usado para descrever uma variedade de condições em que uma pessoa nasce com anatomia reprodutiva ou sexual que não se encaixa nas definições típicas de feminino ou masculino."
+        },
+        {
+          "label": "Assexual",
+          "description": "Uma pessoa que sente pouca ou nenhuma atração sexual por outras pessoas."
+        }
+      ]
+    }
   }
 }
