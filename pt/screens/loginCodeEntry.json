@@ -1,0 +1,12 @@
+{
+  "enterCode": "Digite seu código",
+  "resendCode": "Reenviar código",
+  "nextButton": "Próximo",
+  "storedToken": "Token armazenado:",
+  "tokenNotReceivedTitle": "Token não recebido",
+  "tokenNotReceivedMessage": "O token não foi recebido após a verificação.",
+  "verificationError": "Erro de verificação",
+  "incompleteCodeTitle": "Código incompleto",
+  "incompleteCodeMessage": "Por favor, preencha todos os 6 dígitos do código.",
+  "authenticationFailed": "Código de verificação inválido ou expirado"
+}
