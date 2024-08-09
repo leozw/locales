@@ -1,0 +1,11 @@
+"codeEntry": {
+  "header": "Enter your code",
+  "resend_code": "Resend code",
+  "resend_code_success": "Verification code was resent successfully.",
+  "resend_code_error": "Failed to resend verification code.",
+  "incomplete_code_title": "Incomplete code",
+  "incomplete_code_message": "Please fill in all 6 digits of the code.",
+  "next_button": "Next",
+  "token_not_received_title": "Token not received",
+  "token_not_received_message": "The token was not received after verification."
+}
