@@ -1,0 +1,7 @@
+{
+  "header": "Qual é a sua data de nascimento?",
+  "sub_input": "Sua idade aparecerá no seu perfil, não a sua data de nascimento.",
+  "invalid_date_title": "Data Inválida",
+  "invalid_date_message": "Por favor, selecione uma data válida.",
+  "next_button": "Próximo"
+}
