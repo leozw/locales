@@ -1,0 +1,16 @@
+{
+  "ambassadors": "Embaixadores",
+  "channelsOfEvent": "Canais do Evento",
+  "errorMessage": "Erro: {{error}}",
+  "noChannelsAvailable": "Nenhum canal disponível para este evento.",
+  "leaveChannelMessage": "Tem certeza de que deseja sair do canal? Esta ação não pode ser desfeita.",
+  "leaveChannel": "Sair do Canal",
+  "cancel": "Cancelar",
+  "welcomeToEvent": "Bem-vindo ao Evento!",
+  "youCan": "Você pode:",
+  "joinChannel": "• Junte-se ao canal e converse com todos!",
+  "inviteAmbassadors": "• Convide embaixadores para um bate-papo individual.",
+  "privateConversation": "• Converse no canal ou chame alguém para uma conversa privada.",
+  "haveFun": "Divirta-se e aproveite o bate-papo! 🎉",
+  "gotIt": "Entendi"
+}
