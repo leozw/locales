@@ -1,0 +1,9 @@
+{
+  "header": "Your email",
+  "subheader": "Don't lose access to your account, verify your email.",
+  "invalid_email_title": "Invalid Email",
+  "invalid_email_message": "Please enter a valid email address.",
+  "update_failed_title": "Update Failed",
+  "next_button": "Next",
+  "email_placeholder": "Enter email"
+}
