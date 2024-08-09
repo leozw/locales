@@ -2,6 +2,9 @@
   "header": "Would you like to tell us a little about your lifestyle and habits?",
   "subHeader": "Which of these suits you?",
   "next_button": "Next",
+  "editTitle": "Edit your lifestyle and habits",
+  "saveButton": "Save",
+  "cancelButton": "Cancel",
   "smoke": {
     "title": "How often do you smoke?",
     "options": [
