@@ -1,0 +1,8 @@
+{
+  "header": "What's your first name?",
+  "sub_input": "This is how it'll appear on your profile.",
+  "invalid_name_title": "Invalid Name",
+  "invalid_name_message": "Your name must be at least 2 characters long.",
+  "next_button": "Next",
+  "name_placeholder": "Enter your first name"
+}
