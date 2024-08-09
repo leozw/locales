@@ -1,0 +1,7 @@
+{
+  "header": "What's your birthday?",
+  "sub_input": "Your age will appear on your profile, not your birthday.",
+  "invalid_date_title": "Invalid Date",
+  "invalid_date_message": "Please select a valid date.",
+  "next_button": "Next"
+}
