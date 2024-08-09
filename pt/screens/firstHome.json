@@ -1,7 +1,8 @@
 {
-  "create_account": "Criar Conta",
-  "sign_in": "Entrar",
+  "create_account": "CRIAR CONTA",
+  "sign_in": "ENTRAR",
   "terms_of_service": "Termos de Serviço",
   "privacy_policy": "Política de Privacidade",
-  "agreement_text": "Ao tocar em 'Criar Conta' ou 'Entrar', você concorda com nossos <0>Termos de Serviço</0> e reconhece que leu nossa <1>Política de Privacidade</1>."
+  "agreement_text_1": "Ao tocar em 'Criar Conta' ou 'Entrar', você concorda com nossos",
+  "agreement_text_2": "e reconhece que leu nossa"
 }
