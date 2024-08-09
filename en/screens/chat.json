@@ -1,0 +1,4 @@
+{
+  "fetchError": "Error fetching messages",
+  "sendMessageError": "Error sending message"
+}
