@@ -1,7 +1,7 @@
 "getNumber": {
-  "auth_failed_message": "Please try again.",
-  "auth_failed_title": "Authentication failed",
-  "header": "Can we get\nyour Number?",
-  "next_button": "Next",
-  "phone_placeholder": "Enter phone number"
+  "auth_failed_message": "Por favor, tente novamente.",
+  "auth_failed_title": "Falha na autenticação",
+  "header": "Podemos pegar\nseu número?",
+  "next_button": "Próximo",
+  "phone_placeholder": "Digite o número de telefone"
 }
