@@ -4,5 +4,6 @@
   "joinEventMessage": "Escolha como você gostaria de entrar no evento: via QR Code ou ID do Evento.",
   "eventID": "ID do Evento",
   "cancel": "Cancelar",
-  "qrCode": "QR Code"
+  "qrCode": "QR Code",
+  "joinEventModalPlaceholder": "ID do Evento. Ex: 123456789"
 }
