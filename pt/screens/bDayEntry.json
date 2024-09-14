@@ -3,5 +3,8 @@
   "sub_input": "Sua idade aparecerá no seu perfil, não a sua data de nascimento.",
   "invalid_date_title": "Data Inválida",
   "invalid_date_message": "Por favor, selecione uma data válida.",
-  "next_button": "Próximo"
+  "next_button": "Próximo",
+  "future_date": "Data futura não é permitida",
+  "youger": "Você precisar ter mais de 18 anos",
+  "invalid_age": "Idade inválida"
 }
