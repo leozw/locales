@@ -3,5 +3,8 @@
   "sub_input": "Your age will appear on your profile, not your birthday.",
   "invalid_date_title": "Invalid Date",
   "invalid_date_message": "Please select a valid date.",
-  "next_button": "Next"
+  "next_button": "Next",
+  "future_date": "Future date is not allowed",
+  "youger": "You must be at least 18 years old",
+  "invalid_age": "Invalid Age"
 }
