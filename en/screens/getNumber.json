@@ -1,7 +1,7 @@
 {
   "auth_failed_message": "Please try again.",
   "auth_failed_title": "Authentication failed",
-  "header": "Can we get\nyour Number?",
+  "header": "Can we get your Number?",
   "next_button": "Next",
   "phone_placeholder": "Enter phone number"
 }
