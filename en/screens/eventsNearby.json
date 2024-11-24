@@ -6,5 +6,6 @@
   "distanceUnit": "km",
   "away": "away",
   "joinEvent": "Join Event",
-  "emptyStateText": "No nearby events found. Create or join an event to make new friends and have fun!"
+  "emptyStateText": "No nearby events found. Create or join an event to make new friends and have fun!", 
+  "goToEvent": "Go to Event"
 }

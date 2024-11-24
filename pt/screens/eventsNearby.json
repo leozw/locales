@@ -6,5 +6,6 @@
   "distanceUnit": "km",
   "away": "de distância",
   "joinEvent": "Entrar no Evento",
-  "emptyStateText": "Nenhum evento próximo encontrado. Crie ou entre em um evento para fazer novos amigos e se divertir!"
+  "emptyStateText": "Nenhum evento próximo encontrado. Crie ou entre em um evento para fazer novos amigos e se divertir!",
+  "goToEvent": "Ir para o Evento "
 }
