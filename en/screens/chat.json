@@ -1,4 +1,5 @@
 {
   "fetchError": "Error fetching messages",
-  "sendMessageError": "Error sending message"
+  "sendMessageError": "Error sending message",
+  "canSendMessage": "You can only send another message after receiving the first reply. 😊"
 }
