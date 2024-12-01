@@ -4,12 +4,13 @@
   "update": "Update",
   "cancel": "Cancel",
   "settings": "Account Settings",
-  "cellphone": "Cellphone",
+  "cellphone": "Cellphone:",
   "help": "Help",
   "helpSupport": "Help & Support",
   "privacy": "Privacy",
   "privacyPolicy": "Privacy Policy",
   "legal": "Legal",
   "licenses": "Licenses",
-  "terms": "Terms of Service"
-}
+  "terms": "Terms of Service",
+  "email": "Email:"
+} 

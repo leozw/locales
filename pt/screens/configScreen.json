@@ -4,12 +4,14 @@
   "update": "Atualizar",
   "cancel": "Cancelar",
   "settings": "Configurações da Conta",
-  "cellphone": "Telefone",
+  "cellphone": "Telefone:",
   "help": "Ajuda",
   "helpSupport": "Ajuda & Suporte",
   "privacy": "Privacidade",
   "privacyPolicy": "Política de Privacidade",
   "legal": "Jurídico",
   "licenses": "Licenças",
-  "terms": "Termos de Serviço"
+  "terms": "Termos de Serviço",
+  "email": "Email:"
 }
+ 
