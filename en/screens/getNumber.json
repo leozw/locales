@@ -1,4 +1,6 @@
 {
+  "canWeGet": "Can we get",
+  "yourNumber": "your Number?",
   "auth_failed_message": "Please try again.",
   "auth_failed_title": "Authentication failed",
   "header": "Can we get your Number?",
