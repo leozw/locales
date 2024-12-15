@@ -1,3 +1,10 @@
 {
-  "headerMessage": "Here is your profile"
+  "headerMessage": "Here is your profile",
+  "bioInputPlaceholder": "Write something about yourself...",
+  "bioButton": "✨ Generate a Bio",
+  "bioDisclaimer": "No bio added yet.",
+  "myBio": "My Bio:",
+  "editBio": "Edit Your Bio",
+  "saveBio": "Save Bio",
+  "closeBio": "Close"
 }
