@@ -1,0 +1,54 @@
+{
+  "header": "Ti piacerebbe raccontarci un po' del tuo stile di vita e delle tue abitudini?",
+  "subHeader": "Quale di questi ti descrive meglio?",
+  "next_button": "Avanti",
+  "editTitle": "Modifica il tuo stile di vita e le tue abitudini",
+  "saveButton": "Salva",
+  "cancelButton": "Annulla",
+  "smoke": {
+    "title": "Quanto spesso fumi?",
+    "options": [
+      "Fumatore sociale",
+      "Fumatore quando beve",
+      "Non fumatore",
+      "Fumatore",
+      "Sto cercando di smettere"
+    ]
+  },
+  "workout": {
+    "title": "Fai esercizio fisico?",
+    "options": [
+      "Ogni giorno",
+      "Spesso",
+      "Qualche volta",
+      "Frequentatore assiduo della palestra",
+      "Occasionalmente",
+      "Mai"
+    ]
+  },
+  "pet": {
+    "title": "Hai animali domestici?",
+    "options": [
+      "Gatto",
+      "Cane",
+      "Uccello",
+      "Pesce",
+      "Anfibio",
+      "Rettile",
+      "Coniglio",
+      "Criceto",
+      "Non ho animali ma li adoro"
+    ]
+  },
+  "drink": {
+    "title": "Quanto spesso bevi?",
+    "options": [
+      "Non bevo",
+      "Socialmente",
+      "Qualche volta",
+      "Nei fine settimana",
+      "In occasioni speciali",
+      "Non bevo, ma sono curioso"
+    ]
+  }
+}

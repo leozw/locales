@@ -1,0 +1,10 @@
+{
+  "headerMessage": "Ecco il tuo profilo",
+  "bioInputPlaceholder": "Scrivi qualcosa su di te...",
+  "bioButton": "✨ Genera una Bio",
+  "bioDisclaimer": "Nessuna bio aggiunta ancora.",
+  "myBio": "La mia Bio:",
+  "editBio": "Modifica la tua Bio",
+  "saveBio": "Salva Bio",
+  "closeBio": "Chiudi"
+}

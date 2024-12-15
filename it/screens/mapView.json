@@ -1,0 +1,11 @@
+{
+  "yourLocation": "La tua posizione",
+  "youAreHere": "Sei qui",
+  "unknownUser": "Utente sconosciuto",
+  "errorFetchingUsers": "Errore nel recupero degli utenti vicini",
+  "errorFetchingEvents": "Errore nel recupero degli eventi vicini",
+  "errorFetchingUserEvents": "Errore nel recupero degli eventi dell'utente",
+  "errorFetchingEventUsers": "Errore nel recupero degli utenti dell'evento",
+  "errorJoiningEvent": "Errore durante la partecipazione all'evento",
+  "eventsExpectedArray": "Atteso che 'nearbyEvents' fosse un array"
+}

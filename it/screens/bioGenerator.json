@@ -1,0 +1,18 @@
+{
+  "occupationQuestion": "Qual è la tua occupazione o area di interesse?",
+  "hobbiesQuestion": "Quali sono i tuoi hobby o passioni?",
+  "personalityQuestion": "Come descriveresti la tua personalità in tre parole?",
+  "goalsQuestion": "Perché sei qui? (ad esempio, Fare amicizie, Networking)",
+  "quirksQuestion": "C'è qualcosa di particolare o divertente su di te?",
+  "extraQuestion": "C'è qualcos'altro che vorresti condividere su di te?",
+  "nextButton": "Avanti",
+  "generateBioButton": "Genera Bio",
+  "bioTitle": "La tua Bio Suggerita",
+  "generatingBio": "Stiamo generando la tua bio...",
+  "errorBio": "Spiacenti, non siamo riusciti a generare la tua bio. Per favore riprova.",
+  "useButton": "Usa",
+  "retryButton": "Riprova",
+  "changeAnswersButton": "Modifica Risposte",
+  "closeButton": "Chiudi",
+  "typeHere": "Scrivi qui..."
+}

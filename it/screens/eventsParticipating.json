@@ -1,0 +1,11 @@
+{
+  "shareMessage": "Partecipa al mio evento: {{eventName}}. ID Evento: {{eventId}}",
+  "errorTitle": "Errore",
+  "shareError": "Condivisione dell'evento non riuscita",
+  "leaveError": "Impossibile abbandonare l'evento",
+  "errorMessage": "Errore: {{error}}",
+  "emptyStateText": "Non stai ancora partecipando a nessun evento. Crea o partecipa a un evento per fare nuove amicizie e divertirti!",
+  "leaveEventMessage": "Sei sicuro di voler abbandonare l'evento? Questa azione non può essere annullata.",
+  "leaveEvent": "Abbandona Evento",
+  "cancel": "Annulla"
+}

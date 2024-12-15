@@ -1,0 +1,17 @@
+{
+  "edit": "Modifica",
+  "updateEventMessage": "Vuoi aggiornare il tuo numero di telefono?",
+  "update": "Aggiorna",
+  "cancel": "Annulla",
+  "settings": "Impostazioni Account",
+  "cellphone": "Cellulare:",
+  "help": "Aiuto",
+  "helpSupport": "Aiuto e Supporto",
+  "privacy": "Privacy",
+  "privacyPolicy": "Informativa sulla Privacy",
+  "legal": "Legale",
+  "licenses": "Licenze",
+  "terms": "Termini di Servizio",
+  "email": "Email:",
+  "logout": "Esci"
+}

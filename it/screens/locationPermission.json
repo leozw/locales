@@ -1,0 +1,12 @@
+{
+  "header": "Vediamo chi è vicino?",
+  "subheader": "Vogliamo accedere alla tua posizione solo per offrirti una migliore esperienza aiutandoti a trovare nuovi amici nelle vicinanze.",
+  "permission_request_title": "Accesso alla Posizione Richiesto",
+  "permission_request_message": "Questa app ha bisogno di accedere alla tua posizione per trovare persone vicino a te.",
+  "permission_neutral": "Chiedimi più tardi",
+  "permission_negative": "Annulla",
+  "permission_positive": "OK",
+  "permission_denied_title": "Permesso Negato",
+  "permission_denied_message": "Devi concedere il permesso di accesso alla posizione per continuare.",
+  "allow_button": "Consenti"
+}

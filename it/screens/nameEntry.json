@@ -1,0 +1,8 @@
+{
+  "header": "Qual è il tuo nome?",
+  "sub_input": "Questo è come apparirà sul tuo profilo.",
+  "invalid_name_title": "Nome non valido",
+  "invalid_name_message": "Il tuo nome deve contenere almeno 2 caratteri.",
+  "next_button": "Avanti",
+  "name_placeholder": "Inserisci il tuo nome"
+}

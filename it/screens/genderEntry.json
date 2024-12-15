@@ -1,0 +1,128 @@
+{
+  "header": "Qual è il tuo genere?",
+  "subHeader": "Seleziona quello che ti descrive meglio.",
+  "invalid_gender_title": "Genere non valido",
+  "invalid_gender_message": "Devi scegliere un genere.",
+  "next_button": "Avanti",
+  "genders": {
+    "Man": "Uomo",
+    "CisMan": {
+      "label": "Uomo Cis",
+      "description": "Un uomo il cui genere corrisponde al sesso assegnato alla nascita."
+    },
+    "TransMan": {
+      "label": "Uomo Trans",
+      "description": "Un uomo transgender il cui genere è diverso dal sesso assegnato alla nascita."
+    },
+    "Woman": "Donna",
+    "CisWoman": {
+      "label": "Donna Cis",
+      "description": "Una donna il cui genere corrisponde al sesso assegnato alla nascita."
+    },
+    "TransWoman": {
+      "label": "Donna Trans",
+      "description": "Una donna transgender il cui genere è diverso dal sesso assegnato alla nascita."
+    },
+    "LGBTQIA": "LGBTQIA+",
+    "Lesbian": {
+      "label": "Lesbica",
+      "description": "Una donna attratta emotivamente, romanticamente o sessualmente da altre donne."
+    },
+    "Gay": {
+      "label": "Gay",
+      "description": "Una persona attratta emotivamente, romanticamente o sessualmente da persone dello stesso genere. Spesso usato per riferirsi a uomini attratti da uomini."
+    },
+    "Bisexual": {
+      "label": "Bisessuale",
+      "description": "Una persona attratta emotivamente, romanticamente o sessualmente da più di un sesso o genere."
+    },
+    "Transgender": {
+      "label": "Transgender",
+      "description": "Un termine generico per persone il cui genere è diverso dal sesso assegnato alla nascita."
+    },
+    "Queer": {
+      "label": "Queer",
+      "description": "Un termine usato da alcune persone, in particolare giovani, la cui orientazione sessuale non è esclusivamente eterosessuale. Spesso usato da chi rifiuta le identità di genere tradizionali."
+    },
+    "Intersex": {
+      "label": "Intersex",
+      "description": "Un termine per descrivere condizioni in cui una persona nasce con anatomia riproduttiva o sessuale che non si adatta alle definizioni tipiche di femmina o maschio."
+    },
+    "Asexual": {
+      "label": "Asessuale",
+      "description": "Una persona che prova poca o nessuna attrazione sessuale verso gli altri."
+    },
+    "Agender": {
+      "label": "Agender",
+      "description": "Una persona che non si identifica con nessun genere."
+    },
+    "Androgyne": {
+      "label": "Androgino",
+      "description": "Una persona che si identifica con una combinazione di caratteristiche maschili e femminili."
+    },
+    "Bigender": {
+      "label": "Bigender",
+      "description": "Una persona che si identifica con due generi."
+    },
+    "Genderqueer": {
+      "label": "Genderqueer",
+      "description": "Una persona che non si conforma esclusivamente alle distinzioni di genere convenzionali ma si identifica con nessuno, entrambi o una combinazione di generi maschili e femminili."
+    },
+    "Genderfluid": {
+      "label": "Genderfluid",
+      "description": "Una persona la cui identità di genere cambia."
+    },
+    "NonBinary": {
+      "label": "Non-binario",
+      "description": "Una persona che non si identifica come maschio o femmina, o che può identificarsi come entrambi o nessuno in momenti diversi."
+    },
+    "Pangender": {
+      "label": "Pangender",
+      "description": "Una persona la cui identità comprende più generi."
+    },
+    "TwoSpirit": {
+      "label": "Due Spiriti",
+      "description": "Una persona che si identifica con un terzo genere o ruolo cerimoniale di genere variabile nelle culture dei nativi americani."
+    },
+    "Neutrois": {
+      "label": "Neutrois",
+      "description": "Un'identità di genere non-binaria considerata come un genere neutro o nullo."
+    },
+    "GenderApathetic": {
+      "label": "Indifferente al Genere",
+      "description": "Una persona che non si identifica fortemente con nessun genere o con il concetto di identità di genere."
+    },
+    "Demigirl": {
+      "label": "Demiragazza",
+      "description": "Una persona che si identifica parzialmente come donna, ragazza o femminile, ma non completamente."
+    },
+    "Demiboy": {
+      "label": "Demiragazzo",
+      "description": "Una persona che si identifica parzialmente come uomo, ragazzo o maschile, ma non completamente."
+    },
+    "Genderflux": {
+      "label": "Genderflux",
+      "description": "Una persona la cui intensità di genere fluttua e può variare nella sua presenza e magnitudo."
+    },
+    "Aporagender": {
+      "label": "Aporagender",
+      "description": "Un'identità di genere al di fuori del binario tradizionale e non definita in relazione a maschio o femmina."
+    },
+    "Maverique": {
+      "label": "Maverique",
+      "description": "Un genere non-binario che esiste al di fuori dei confini sociali ortodossi del genere."
+    },
+    "Polygender": {
+      "label": "Poligenere",
+      "description": "Una persona che si identifica con più generi simultaneamente o in momenti diversi."
+    },
+    "Intergender": {
+      "label": "Intergenere",
+      "description": "Una persona la cui identità di genere è tra generi o una combinazione di generi."
+    },
+    "Graygender": {
+      "label": "Graygender",
+      "description": "Una persona che si identifica con un genere, ma non in modo forte."
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "ambassadors": "Partecipanti",
+  "channelsOfEvent": "Canali dell'Evento",
+  "errorMessage": "Errore: {{error}}",
+  "noChannelsAvailable": "Nessun canale disponibile per questo evento.",
+  "leaveChannelMessage": "Sei sicuro di voler lasciare il canale? Questa azione non può essere annullata.",
+  "leaveChannel": "Lascia il Canale",
+  "cancel": "Annulla",
+  "welcomeToEvent": "Benvenuto all'Evento!",
+  "youCan": "Puoi:",
+  "joinChannel": "• Unirti al canale e chattare con tutti!",
+  "inviteAmbassadors": "• Invitare partecipanti per una chat individuale.",
+  "privateConversation": "• Chattare nel canale o parlare in privato con qualcuno.",
+  "haveFun": "Divertiti e buona chat! 🎉",
+  "gotIt": "Capito",
+  "noMessagesYet": "Nessun messaggio ancora. Sii il primo a dire Ciao! 😊"
+}

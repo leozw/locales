@@ -1,0 +1,12 @@
+{
+    "howAreYouFeeling": "Come ti senti oggi?",
+    "happy": "Felice",
+    "sad": "Triste",
+    "neutral": "Neutrale",
+    "excited": "Eccitato",
+    "angry": "Arrabbiato",
+    "thankYou": "Grazie!",
+    "feedbackSent": "Il tuo feedback è stato inviato.",
+    "error": "Errore",
+    "submissionFailed": "Invio del tuo stato d'animo non riuscito."
+}

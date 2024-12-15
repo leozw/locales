@@ -1,0 +1,10 @@
+{
+  "header": "Qual è la tua data di nascita?",
+  "sub_input": "La tua età apparirà sul tuo profilo, non la tua data di nascita.",
+  "invalid_date_title": "Data non valida",
+  "invalid_date_message": "Seleziona una data valida, per favore.",
+  "next_button": "Avanti",
+  "future_date": "Non è consentita una data futura",
+  "youger": "Devi avere almeno 18 anni",
+  "invalid_age": "Età non valida"
+}

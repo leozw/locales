@@ -1,0 +1,10 @@
+{
+  "createEvent": "Crea Evento",
+  "joinEvent": "Partecipa all'Evento",
+  "joinEventMessage": "Scegli come vuoi partecipare all'evento: tramite QR Code o ID Evento.",
+  "eventID": "ID Evento",
+  "cancel": "Annulla",
+  "qrCode": "QR Code",
+  "joinEventModalPlaceholder": "ID Evento. Es: 123456789",
+  "joinError": "Evento non trovato."
+}

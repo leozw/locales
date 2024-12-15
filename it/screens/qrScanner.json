@@ -1,0 +1,8 @@
+{
+  "successTitle": "Successo",
+  "successMessage": "Ti sei unito all'evento",
+  "errorTitle": "Errore",
+  "errorMessage": "Impossibile unirsi all'evento",
+  "noCameraPermission": "Nessuna autorizzazione alla fotocamera",
+  "overlayText": "Punta la fotocamera sul codice QR per unirti all'evento"
+}

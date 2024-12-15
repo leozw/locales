@@ -1,0 +1,11 @@
+{
+  "canWeGet": "Possiamo avere",
+  "yourNumber": "il tuo numero?",
+  "phoneNumberPlaceholder": "Inserisci il numero di telefono",
+  "nextButton": "Avanti",
+  "userNotFoundTitle": "Utente non trovato",
+  "userNotFoundMessage": "Vuoi creare un account?",
+  "yes": "Sì",
+  "no": "No",
+  "updateYourPhone": "Aggiorna il tuo cellulare"
+}

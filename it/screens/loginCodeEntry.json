@@ -1,0 +1,12 @@
+{
+  "enterCode": "Inserisci il tuo codice",
+  "resendCode": "Invia di nuovo il codice",
+  "nextButton": "Avanti",
+  "storedToken": "Token Memorizzato:",
+  "tokenNotReceivedTitle": "Token non ricevuto",
+  "tokenNotReceivedMessage": "Il token non è stato ricevuto dopo la verifica.",
+  "verificationError": "Errore di Verifica",
+  "incompleteCodeTitle": "Codice incompleto",
+  "incompleteCodeMessage": "Per favore, inserisci tutte le 6 cifre del codice.",
+  "authenticationFailed": "Codice di verifica non valido o scaduto"
+}

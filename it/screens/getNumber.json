@@ -1,0 +1,9 @@
+{
+  "canWeGet": "Possiamo avere",
+  "yourNumber": "il tuo numero?",
+  "auth_failed_message": "Per favore, riprova.",
+  "auth_failed_title": "Autenticazione fallita",
+  "header": "Possiamo avere il tuo numero?",
+  "next_button": "Avanti",
+  "phone_placeholder": "Inserisci il numero di telefono"
+}

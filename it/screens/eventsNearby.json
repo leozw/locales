@@ -1,0 +1,11 @@
+{
+  "noEventsFound": "Nessun evento nelle vicinanze trovato.",
+  "errorTitle": "Errore",
+  "joinError": "Impossibile partecipare all'evento",
+  "errorMessage": "Errore: {{error}}",
+  "distanceUnit": "km",
+  "away": "di distanza",
+  "joinEvent": "Partecipa all'Evento",
+  "emptyStateText": "Nessun evento nelle vicinanze trovato. Crea o partecipa a un evento per fare nuove amicizie e divertirti!",
+  "goToEvent": "Vai all'Evento"
+}

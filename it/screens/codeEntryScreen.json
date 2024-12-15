@@ -1,0 +1,11 @@
+{
+  "header": "Inserisci il tuo codice",
+  "resend_code": "Invia di nuovo il codice",
+  "resend_code_success": "Il codice di verifica è stato inviato con successo.",
+  "resend_code_error": "Invio del codice di verifica non riuscito.",
+  "incomplete_code_title": "Codice incompleto",
+  "incomplete_code_message": "Per favore, inserisci tutte le 6 cifre del codice.",
+  "next_button": "Avanti",
+  "token_not_received_title": "Token non ricevuto",
+  "token_not_received_message": "Il token non è stato ricevuto dopo la verifica."
+}
