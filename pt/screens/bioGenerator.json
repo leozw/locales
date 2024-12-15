@@ -13,5 +13,6 @@
   "useButton": "Usar",
   "retryButton": "Refazer",
   "changeAnswersButton": "Trocar Respostas",
-  "closeButton": "Fechar"
+  "closeButton": "Fechar",
+  "typeHere": "Escreva aqui..."
 }

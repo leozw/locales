@@ -13,5 +13,6 @@
   "useButton": "Use",
   "retryButton": "Retry",
   "changeAnswersButton": "Change Answers",
-  "closeButton": "Close"
+  "closeButton": "Close",
+  "typeHere": "Type here..."
 }
