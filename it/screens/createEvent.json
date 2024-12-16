@@ -24,5 +24,9 @@
   "dressCodePlaceholder": "Casual, Formale, ecc.",
   "fullDescription": "Descrizione Completa",
   "fullDescriptionPlaceholder": "Dettagli aggiuntivi sull'evento",
-  "createEventButton": "Crea Evento"
+  "createEventButton": "Crea Evento",
+  "error": "Errore",
+  "invalidLocationData": "Dati di posizione non validi",
+  "userNotLoggedIn": "Utente non connesso",
+  "eventCreationFailed": "Impossibile creare l'evento"
 }
