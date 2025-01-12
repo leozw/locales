@@ -1,0 +1,13 @@
+{
+  "header": "Permissão para notificações",
+  "subheader": "Permita notificações para ficar atualizado com as novidades.",
+  "allow_button": "Permitir",
+  "permission_request_title": "Solicitação de permissão",
+  "permission_request_message": "Permitir que este aplicativo envie notificações?",
+  "permission_granted_title": "Permissão concedida",
+  "permission_granted_message": "Você receberá notificações importantes!",
+  "permission_denied_title": "Permissão negada",
+  "permission_denied_message": "Você não receberá notificações deste aplicativo.",
+  "permission_error_title": "Erro",
+  "permission_error_message": "Não foi possível solicitar permissão para notificações."
+}

@@ -2,5 +2,6 @@
   "alreadyInEvent": "Sei già in questo evento",
   "goToEvent": "Vai all'Evento",
   "joinEvent": "Partecipa all'Evento",
-  "close": "Chiudi"
+  "close": "Chiudi",
+  "distanceFromYou": "di distanza"
 }
