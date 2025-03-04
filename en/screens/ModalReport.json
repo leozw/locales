@@ -1,0 +1,12 @@
+{
+    "modalTitle": "Report User",
+    "modalDescription": "Are you sure you want to report this user?",
+    "reportButton": "Report",
+    "cancelButton": "Cancel",
+    "successTitle": "Success",
+    "successMessage": "The user has been reported and blocked.",
+    "errorTitle": "Error",
+    "errorMessage": "Could not report the user.",
+    "errorUnexpected": "An error occurred while trying to report the user."
+  }
+  
