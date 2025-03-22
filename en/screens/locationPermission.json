@@ -1,6 +1,6 @@
 {
   "header": "So let's see who's close?",
-  "subheader": "We want to access your location only to provide a better experience by helping you find new friends nearby.",
+  "subheader": "We only want to access your location to provide a better experience by helping you find new people nearby.",
   "permission_request_title": "Location Access Required",
   "permission_request_message": "This app needs access to your location to find people near you.",
   "permission_neutral": "Ask Me Later",
