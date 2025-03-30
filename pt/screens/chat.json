@@ -1,5 +1,6 @@
 {
   "fetchError": "Erro ao buscar mensagens",
   "sendMessageError": "Erro ao enviar mensagem",
-  "canSendMessage": "Você só poderá enviar outra mensagem após receber a primeira resposta. 😊"
+  "canSendMessage": "Você só poderá enviar outra mensagem após receber a primeira resposta. 😊",
+  "goToConversation": "Ir para a conversa"
 }

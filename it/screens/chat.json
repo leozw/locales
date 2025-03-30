@@ -1,5 +1,6 @@
 {
   "fetchError": "Errore nel recupero dei messaggi",
   "sendMessageError": "Errore nell'invio del messaggio",
-  "canSendMessage": "Puoi inviare un altro messaggio solo dopo aver ricevuto la prima risposta. 😊"
+  "canSendMessage": "Puoi inviare un altro messaggio solo dopo aver ricevuto la prima risposta. 😊",
+  "goToConversation": "Vai alla conversazione"
 }
