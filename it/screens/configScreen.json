@@ -13,5 +13,6 @@
   "licenses": "Licenze",
   "terms": "Termini di Servizio",
   "email": "Email:",
-  "logout": "Esci"
+  "logout": "Esci",
+  "updateEmailMessage": "Vuoi aggiornare il tuo numero di telefono?"
 }

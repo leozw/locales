@@ -13,5 +13,6 @@
   "licenses": "Licenses",
   "terms": "Terms of Service",
   "email": "Email:",
-  "logout": "Logout"
+  "logout": "Logout",
+  "updateEmailMessage": "Do you want to update your email?"
 } 
