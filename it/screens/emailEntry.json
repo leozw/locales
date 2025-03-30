@@ -7,5 +7,6 @@
   "next_button": "Avanti",
   "email_placeholder": "Inserisci la tua email",
   "updateYourEmail": "Aggiorna la tua email",
-  "updateSubheader": "Inserisci la tua nuova email per aggiornare le informazioni del tuo account."
+  "updateSubheader": "Inserisci la tua nuova email per aggiornare le informazioni del tuo account.",
+  "update_button": "Aggiornamento"
 }

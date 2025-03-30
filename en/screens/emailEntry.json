@@ -7,5 +7,6 @@
   "next_button": "Next",
   "email_placeholder": "Enter your email",
   "updateYourEmail": "Update your email",
-  "updateSubheader": "Enter your new email to update your account information."
+  "updateSubheader": "Enter your new email to update your account information.",
+  "update_button": "Update"
 }

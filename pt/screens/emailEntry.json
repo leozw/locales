@@ -7,5 +7,6 @@
   "next_button": "Avançar",
   "email_placeholder": "Digite seu e-mail",
   "updateYourEmail": "Atualize seu e-mail",
-  "updateSubheader": "Insira seu novo e-mail para atualizar as informações da sua conta."
+  "updateSubheader": "Insira seu novo e-mail para atualizar as informações da sua conta.",
+  "update_button": "Atualizar"
 }
