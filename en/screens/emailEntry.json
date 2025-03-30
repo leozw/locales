@@ -5,5 +5,7 @@
   "invalid_email_message": "Please enter a valid email address.",
   "update_failed_title": "Update Failed",
   "next_button": "Next",
-  "email_placeholder": "Enter email"
+  "email_placeholder": "Enter your email",
+  "updateYourEmail": "Update your email",
+  "updateSubheader": "Enter your new email to update your account information."
 }

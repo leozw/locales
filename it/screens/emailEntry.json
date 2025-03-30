@@ -1,9 +1,11 @@
 {
   "header": "La tua email",
-  "subheader": "Non perdere l'accesso al tuo account, verifica la tua email.",
+  "subheader": "Non perdere l'accesso al tuo account. Verifica la tua email.",
   "invalid_email_title": "Email non valida",
   "invalid_email_message": "Per favore, inserisci un indirizzo email valido.",
   "update_failed_title": "Aggiornamento fallito",
   "next_button": "Avanti",
-  "email_placeholder": "Inserisci email"
+  "email_placeholder": "Inserisci la tua email",
+  "updateYourEmail": "Aggiorna la tua email",
+  "updateSubheader": "Inserisci la tua nuova email per aggiornare le informazioni del tuo account."
 }
