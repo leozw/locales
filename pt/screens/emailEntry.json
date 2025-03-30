@@ -8,5 +8,7 @@
   "email_placeholder": "Digite seu e-mail",
   "updateYourEmail": "Atualize seu e-mail",
   "updateSubheader": "Insira seu novo e-mail para atualizar as informações da sua conta.",
-  "update_button": "Atualizar"
+  "update_button": "Atualizar",
+  "email_updated_title": "E-mail atualizado",
+  "email_updated_message": "Seu e-mail foi atualizado com sucesso."
 }

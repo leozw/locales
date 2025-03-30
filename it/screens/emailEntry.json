@@ -8,5 +8,7 @@
   "email_placeholder": "Inserisci la tua email",
   "updateYourEmail": "Aggiorna la tua email",
   "updateSubheader": "Inserisci la tua nuova email per aggiornare le informazioni del tuo account.",
-  "update_button": "Aggiornamento"
+  "update_button": "Aggiornamento",
+  "email_updated_title": "Email aggiornato",
+  "email_updated_message": "La tua email è stata aggiornata con successo."
 }
