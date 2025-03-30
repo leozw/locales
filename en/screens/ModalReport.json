@@ -1,12 +1,18 @@
 {
-    "modalTitle": "Report User",
-    "modalDescription": "Are you sure you want to report this user?",
-    "reportButton": "Report",
-    "cancelButton": "Cancel",
-    "successTitle": "Success",
-    "successMessage": "The user has been reported and blocked.",
-    "errorTitle": "Error",
-    "errorMessage": "Could not report the user.",
-    "errorUnexpected": "An error occurred while trying to report the user."
-  }
-  
+  "modalTitle": "Report User",
+  "modalDescription": "Tell us why you want to report this user.",
+  "reportButton": "Report",
+  "cancelButton": "Cancel",
+  "successTitle": "Reported",
+  "successMessage": "User reported successfully.",
+  "errorTitle": "Error",
+  "errorMessage": "Failed to report user.",
+  "errorUnexpected": "Unexpected error occurred.",
+  "selectReason": "Please select a reason.",
+  "optionalDescription": "Optional description",
+  "Spam": "Spam",
+  "Offensive Content": "Offensive Content",
+  "Fake Profile": "Fake Profile",
+  "Harassment": "Harassment",
+  "Other": "Other"
+}

@@ -1,12 +1,18 @@
 {
-    "modalTitle": "Segnala Utente",
-    "modalDescription": "Sei sicuro di voler segnalare questo utente?",
-    "reportButton": "Segnala",
-    "cancelButton": "Annulla",
-    "successTitle": "Successo",
-    "successMessage": "L'utente è stato segnalato e bloccato.",
-    "errorTitle": "Errore",
-    "errorMessage": "Impossibile segnalare l'utente.",
-    "errorUnexpected": "Si è verificato un errore durante la segnalazione dell'utente."
-  }
-  
+  "modalTitle": "Segnala Utente",
+  "modalDescription": "Dicci perché vuoi segnalare questo utente.",
+  "reportButton": "Segnala",
+  "cancelButton": "Annulla",
+  "successTitle": "Segnalato",
+  "successMessage": "Utente segnalato con successo.",
+  "errorTitle": "Errore",
+  "errorMessage": "Impossibile segnalare l'utente.",
+  "errorUnexpected": "Si è verificato un errore imprevisto.",
+  "selectReason": "Seleziona un motivo.",
+  "optionalDescription": "Descrizione opzionale",
+  "Spam": "Spam",
+  "Offensive Content": "Contenuto offensivo",
+  "Fake Profile": "Profilo falso",
+  "Harassment": "Molestie",
+  "Other": "Altro"
+}
