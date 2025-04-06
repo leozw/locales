@@ -7,5 +7,10 @@
   "errorFetchingUserEvents": "Error fetching user events",
   "errorFetchingEventUsers": "Error fetching event users",
   "errorJoiningEvent": "Error joining event",
-  "eventsExpectedArray": "Expected 'nearbyEvents' to be an array"
+  "eventsExpectedArray": "Expected 'nearbyEvents' to be an array",
+  "locationNotification": {
+    "NotificationTitle": "👀 Look around...",
+    "NotificationDescription": "{{name}} is nearby! Why not say HEYYYA!?",
+    "DefaultName": "Someone"
+  }
 }

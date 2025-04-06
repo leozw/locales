@@ -7,5 +7,10 @@
   "errorFetchingUserEvents": "Errore nel recupero degli eventi dell'utente",
   "errorFetchingEventUsers": "Errore nel recupero degli utenti dell'evento",
   "errorJoiningEvent": "Errore durante la partecipazione all'evento",
-  "eventsExpectedArray": "Atteso che 'nearbyEvents' fosse un array"
+  "eventsExpectedArray": "Atteso che 'nearbyEvents' fosse un array",
+  "locationNotification": {
+    "NotificationTitle": "👀 Dai un'occhiata in giro...",
+    "NotificationDescription": "{{name}} è vicino! Che ne dici di mandare un HEYYYA!?",
+    "DefaultName": "Qualcuno"
+  }
 }

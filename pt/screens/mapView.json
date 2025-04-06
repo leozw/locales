@@ -7,5 +7,10 @@
   "errorFetchingUserEvents": "Erro ao buscar eventos do usuário",
   "errorFetchingEventUsers": "Erro ao buscar usuários do evento",
   "errorJoiningEvent": "Erro ao ingressar no evento",
-  "eventsExpectedArray": "Esperava-se que 'nearbyEvents' fosse um array"
+  "eventsExpectedArray": "Esperava-se que 'nearbyEvents' fosse um array",
+  "locationNotification": {
+    "NotificationTitle": "👀 Olhe ao redor...",
+    "NotificationDescription": "{{name}} está por perto! Que tal mandar um HEYYYA!?",
+    "DefaultName": "Alguém"
+  }
 }
