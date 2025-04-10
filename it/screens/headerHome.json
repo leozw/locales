@@ -1,3 +1,9 @@
 {
-  "messageHeader": "Dai un'occhiata e vedi se c'è qualcuno nei paraggi"
+  "messageHeader": "Dai un'occhiata e vedi se c'è qualcuno nei paraggi",
+  "messages": [
+    "Chi è nelle vicinanze?",
+    "Nuove opportunità di amicizia intorno a te",
+    "Persone e connessioni intorno a te",
+    "Chi è aperto a connettersi ora?"
+  ]
 }

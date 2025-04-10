@@ -8,5 +8,6 @@
     "thankYou": "Obrigado!",
     "feedbackSent": "Seu feedback foi enviado.",
     "error": "Erro",
-    "submissionFailed": "Falha ao enviar seu humor."
+    "submissionFailed": "Falha ao enviar seu humor.",
+    "tooltip": "Isso ajuda os outros a se conectarem com você de forma mais respeitosa e significativa."
 }

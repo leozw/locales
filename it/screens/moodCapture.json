@@ -8,5 +8,6 @@
     "thankYou": "Grazie!",
     "feedbackSent": "Il tuo feedback è stato inviato.",
     "error": "Errore",
-    "submissionFailed": "Invio del tuo stato d'animo non riuscito."
+    "submissionFailed": "Invio del tuo stato d'animo non riuscito.",
+    "tooltip": "Questo aiuta gli altri a connettersi con te in modo più rispettoso e significativo."
 }

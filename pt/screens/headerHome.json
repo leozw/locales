@@ -1,3 +1,9 @@
 {
-  "messageHeader": "Dê uma olhada e veja se alguém está por perto"
+  "messageHeader": "Dê uma olhada e veja se alguém está por perto",
+  "messages": [
+    "Quem está por perto?",
+    "Novas oportunidades de amizade por perto",
+    "Pessoas e conexões ao seu redor",
+    "Quem está aberto para conexão agora?"
+  ]
 }

@@ -8,5 +8,6 @@
     "thankYou": "Thank you!",
     "feedbackSent": "Your feedback has been sent.",
     "error": "Error",
-    "submissionFailed": "Failed to submit your mood."
+    "submissionFailed": "Failed to submit your mood.",
+    "tooltip": "This helps others connect with you in a more respectful and meaningful way."
 }

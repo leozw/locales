@@ -1,3 +1,9 @@
 {
-  "messageHeader": "Take a look and see if anyone is nearby"
+  "messageHeader": "Take a look and see if anyone is nearby",
+  "messages": [
+    "Who's nearby?",
+    "New friendship opportunities around you",
+    "People and connections around you",
+    "Who's open to connect now?"
+  ]
 }
